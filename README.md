@@ -1,4 +1,4 @@
-# AboutUs
+# About Schüßler-Plan Digital
 
 Our digital enthusiasts are working on Software Solutions 
 for an efficient and consistenc 
