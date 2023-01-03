@@ -1,7 +1,7 @@
 # About Schüßler-Plan Digital
 
 Our digital enthusiasts are working on Software Solutions 
-for an efficient and consistenc 
+for an efficient and consistent 
 design, planing an operation of buildings.
 
 Further Informations:
